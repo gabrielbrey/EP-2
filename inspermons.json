@@ -1,0 +1,73 @@
+﻿[
+{
+"nome" : "Crackmon",
+"poder minimo" : 85,
+ "poder maximo" : 120,"vida" : 300,
+"defesa" : 90}, 
+{
+"nome" : "Chuitionmon",
+"poder minimo" : 54,
+ "poder maximo" : 157,"vida" : 700,
+"defesa" : 35},
+	{
+"nome" : "Raposamon",
+"poder minimo" : 150,
+ "poder maximo" : 180,
+"vida" : 800,
+"defesa" : 50
+},
+{
+	"nome" : "Sujomon",
+"poder minimo" : 75,
+ "poder maximo" : 200,"vida" : 666,
+"defesa" : 70
+},
+{
+"nome" : "Fabliiit",
+	"poder minimo" : 100,
+ "poder maximo" : 125,
+"vida" : 500,
+"defesa" : 69
+},
+{
+"nome" : "Ligeiromon",
+	"poder minimo" : 1,
+ "poder maximo" : 350,"vida" : 700,
+	"defesa" : 55},
+{
+"nome" : "Pufmon",
+"poder minimo" : 85,
+ "poder maximo" : 100,
+"vida" : 800,
+"defesa" : 35
+},
+{
+"nome" : "Breyzinha",
+"poder minimo" : 3,
+ "poder maximo" : 69,"vida" : 475,
+"defesa" : 24
+},
+{
+"nome" : "Ratatatatatatata",
+"poder minimo" : 70,
+ "poder maximo" : 130,"vida" : 600,
+"defesa" : 50	},
+{
+"nome" : "Natitubemon",
+"poder minimo" : 100,
+ "poder maximo" : 130,
+"vida" : 521,
+"defesa" : 58
+}
+]
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+# On branch master
+# Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	new file:   inspermons.json
+#
+
